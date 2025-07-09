@@ -14,7 +14,7 @@ Customizable Scan Parameters: Adjust maximum depth, file limits, and scan timeou
 Responsive Visualization: The treemap adapts to the window size, and the info panel provides relevant details.
 
 
-![VisualDisk.png](../../../Pictures/Screenshots/VisualDisk.png)
+![VisualDisk](https://github.com/user-attachments/assets/ca6e0b05-a6fc-4116-b31d-b349764f9eb6)
 
 
 Requirements
