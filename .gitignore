@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Virtual environment
+.venv/
+venv/
+env/
+*.env # For .env files used for environment variables
+
+# PyCharm
+.idea/
+*.iml
