@@ -47,27 +47,16 @@ python3 main.py [directory_to_scan] [options]
 
 
 
+
 Available Options:
 
 directory: (Optional) The path to the directory to scan. If omitted, it will prompt for input.
 
---max-depth <int>: Maximum depth to scan (default: 8).
+--max-depth <int>: Maximum depth to scan (default: 8, 0 is current directory only).
 
 --max-files <int>: Maximum number of files to process (default: 100000).
 
---timeout <int>: Timeout for the scan in seconds (default: 300).
 
---follow-symlinks: (Flag) Follow symbolic links. By default, symbolic links are not followed.
-
---width <int>: Width of the visualization window in pixels (default: 1200).
-
---height <int>: Height of the visualization window in pixels (default: 800).
-
---no-visualization: (Flag) Run only the disk analysis without launching the graphical visualization.
-
---non-interactive: (Flag) Run the visualization in non-interactive mode (no mouse hover effects).
-
---update-interval <float>: Interval in seconds for real-time visualization updates (default: 0.5).
 
 
 
